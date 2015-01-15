@@ -1,6 +1,8 @@
 /*
+  Awesome-o Costume Code Is a modified code by:
+  
   MP3 Shield Trigger
-  by: Jim Lindblom
+  by: Jim Lindblom, 
       SparkFun Electronics
   date: September 23, 2013
 
