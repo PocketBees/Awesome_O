@@ -1,5 +1,8 @@
 /*
-  Awesome-o Costume Code Is a modified code by:
+  Awesome-o Costume Code Is a modified code by: Cody Knutson, MP3 shield was originally written by Jim Lindblum. 
+  The easy LED portions of the code are written by myself.
+  
+  -------------------------------------------------------------------------------------------------------
   
   MP3 Shield Trigger
   by: Jim Lindblom, 
